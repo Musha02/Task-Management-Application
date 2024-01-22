@@ -15,7 +15,7 @@ const nunito = Nunito({
 
 export const metadata: Metadata = {
   title: "Task Management Application",
-  description: "Author: Ahamed Musharraf",
+  description: "Author: M.N. Ahamed Musharraf",
 };
 
 export default function RootLayout({
